@@ -1,6 +1,8 @@
 # FormMax — AI Squat Form Checker
-
 Real-time squat form analysis using TensorFlow.js MoveNet pose estimation, webcam input, and rule-based feedback.
+
+#  Backstory
+Outside of building projects, I like to weightlift, and over time, poor form has given me pain on some exercises that took time to correct. This has slowed my progress in some areas, but it could've been avoided. We can't always have a friend or coach by our side critiquing our form so I built FormMax to step in.
 
 ## Features
 
@@ -20,7 +22,6 @@ Real-time squat form analysis using TensorFlow.js MoveNet pose estimation, webca
 - **Vite** (dev server / bundler)
 - **Tailwind CSS v4**
 - **TensorFlow.js** + MoveNet pose estimation
-- No backend required
 
 ## Getting Started
 
